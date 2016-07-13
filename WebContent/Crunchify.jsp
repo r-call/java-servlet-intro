@@ -11,8 +11,8 @@ body {
 </style>
  
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Crunchify JSP Servlet Example</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+	<title>Crunchify JSP Servlet Example</title>
 </head>
 <body>
  
